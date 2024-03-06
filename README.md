@@ -1,4 +1,4 @@
-#React DALL-E Image Generator
+# React DALL-E Image Generator
 
 ## Description
 
@@ -29,21 +29,19 @@ Support for various prompts and image generation scenarios.
 
 > Set up environment variables:
 
-### Create a `.env` file in the root of the project directory and add the following environment variables:
-
-makefile
+> Create a `.env` file in the root of the project directory and add the following environment variables:
 
 `API_KEY=your_openai_api_key_here`
 
-Replace your_openai_api_key_here with your actual OpenAI API key.
+> Replace your_openai_api_key_here with your actual OpenAI API key.
 
 > Start the development server:
 
-In terminal
+### In terminal
 
 `npm run start:frontend`
 
-In other terminal window start backend
+### In other terminal window start backend
 
 `npm rum start:backend`
 
@@ -54,6 +52,7 @@ Enter a prompt in the input field.
 Press the "Generate" button.
 Wait for the app to fetch and display the generated image.
 Explore different prompts and experiment with image generation.
+```
 
 > Technologies Used
 
@@ -61,8 +60,6 @@ React
 OpenAI DALL-E API
 JavaScript
 HTML/CSS
-
-```
 
 ## Credits:
 
