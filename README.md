@@ -54,7 +54,7 @@ Wait for the app to fetch and display the generated image.
 Explore different prompts and experiment with image generation.
 ```
 
-> Technologies Used
+## Technologies Used
 
 React
 OpenAI DALL-E API
