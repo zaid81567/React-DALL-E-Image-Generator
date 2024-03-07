@@ -15,39 +15,37 @@ Support for various prompts and image generation scenarios.
 
 ## Installation
 
-> Clone the repository:
+- Clone the repository:
 
 `git clone https://github.com/yourusername/react-dalle-image-generator.git`
 
-> Navigate to the project directory:
+- Navigate to the project directory:
 
 `cd react-dalle-image-generator`
 
-> Install dependencies:
+- Install dependencies:
 
 `npm install`
 
-> Set up environment variables:
+- Set up environment variables:
 
-> Create a `.env` file in the root of the project directory and add the following environment variables:
+- Create a `.env` file in the root of the project directory and add the following environment variables:
 
 `API_KEY=your_openai_api_key_here`
 
-> Replace your_openai_api_key_here with your actual OpenAI API key.
+- Replace your_openai_api_key_here with your actual OpenAI API key.
 
-> Start the development server:
+- Start the development server:
 
 ### In terminal
 
 - start frontend
   `npm run start:frontend`
 
-### In other terminal window start backend
-
 - start backend
   `npm rum start:backend`
 
-> Usage
+## Usage
 
 ```
 Enter a prompt in the input field.
