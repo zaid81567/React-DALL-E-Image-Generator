@@ -39,11 +39,13 @@ Support for various prompts and image generation scenarios.
 
 ### In terminal
 
-`npm run start:frontend`
+- start frontend
+  `npm run start:frontend`
 
 ### In other terminal window start backend
 
-`npm rum start:backend`
+- start backend
+  `npm rum start:backend`
 
 > Usage
 
